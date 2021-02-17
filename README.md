@@ -6,10 +6,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonj-entry&layout=compact)](https://github.com/simonj-entry/github-readme-stats)<br>
 
 ## simonj가 사용하는 것
+
+# 언어
 ![HTML](https://img.shields.io/badge/-HTML-AAAAAA?logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-ff0000?logo=JAVASCRIPT&logoColor=white)
 ![JAVA](https://img.shields.io/badge/-JAVA-ff00ff?logo=JAVA&logoColor=white)
+
+# 프로그램(?)
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white)
 
@@ -19,3 +23,6 @@
 
 ## simonj의 페이지
 엔트리: https://playentry.org/simonj<br>
+
+## 심심
+![404](https://shields.io/404)
