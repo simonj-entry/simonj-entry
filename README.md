@@ -25,4 +25,4 @@
 엔트리: https://playentry.org/simonj<br>
 
 ## 심심
-![404](https://img.shields.io/404)
+![404](https://img.shields.io/badge/404-badge%20not%20found-red)
