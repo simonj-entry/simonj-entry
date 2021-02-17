@@ -2,7 +2,6 @@
 
 # 안녕하세요? 엔트리 유저 simonj입니다.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimonj-entry-hit-counter&count_bg=%2316C5F0&title_bg=%2347545D&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
-![](https://img.shields.io/github/followers/simonj-entry?style=social)<br>
 ![](https://github-readme-stats.vercel.app/api?username=simonj-entry&show_icons=true&theme=dark)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonj-entry&layout=compact)](https://github.com/simonj-entry/github-readme-stats)<br>
 
