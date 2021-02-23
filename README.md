@@ -8,8 +8,8 @@
 # simonj가 사용하는 것
 
 ### 언어
-![HTML](https://img.shields.io/badge/-HTML-AAAAAA?logo=HTML&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-AAAAAA?logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-ff0000?logo=JAVASCRIPT&logoColor=white)
 ![JAVA](https://img.shields.io/badge/-JAVA-ff00ff?logo=JAVA&logoColor=white)
 
