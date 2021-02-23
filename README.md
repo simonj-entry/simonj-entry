@@ -8,10 +8,11 @@
 # simonj가 사용하는 것
 
 ### 언어
-![HTML](https://img.shields.io/badge/-HTML-AAAAAA?logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-ff0000?logo=JAVASCRIPT&logoColor=white)
 ![JAVA](https://img.shields.io/badge/-JAVA-ff00ff?logo=JAVA&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&logoColor=white)
 
 ### 프로그램(?)
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
