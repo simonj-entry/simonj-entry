@@ -20,7 +20,7 @@
 
 # 프로젝트들
 강력크 블록:https://github.com/simonj-entry/StrongBlock<br>
-30초 엔트리 메크로:https://github.com/simonj-entry/Macro<br>
+엔트리 관련 js:https://github.com/simonj-entry/entryjs<br>
 
 # 시몬즈의 페이지
 엔트리: https://playentry.org/simonj<br>
