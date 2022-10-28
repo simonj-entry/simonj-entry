@@ -1,11 +1,11 @@
 ![Hi](https://img.shields.io/badge/%F0%9F%96%90-Hi!-gold)
 
-# 안녕하세요? 엔트리 유저 시몬즈입니다.
+# 안녕하세요? 엔트리 유저 PIANO입니다.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimonj-entry-hit-counter&count_bg=%2316C5F0&title_bg=%2347545D&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 ![](https://github-readme-stats.vercel.app/api?username=simonj-entry&bg_color=30,ffd700,5CD1E5&title_color=fff&text_color=fff)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonj-entry&layout=compact)](https://github.com/simonj-entry/github-readme-stats)<br>
 
-# 시몬즈가 사용하는 것
+# PIANO가 사용하는 것
 
 ### 언어
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white)
@@ -22,7 +22,7 @@
 강력크 블록:https://github.com/simonj-entry/StrongBlock<br>
 엔트리 관련 js:https://github.com/simonj-entry/entryjs<br>
 
-# 시몬즈의 페이지
+# PIANO의 페이지
 엔트리: https://playentry.org/simonj<br>
 
 # 심심
